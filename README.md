@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Muluken Jenber 👋</h1>
-<h3 align="center">Full Stack Developer | Crafting Exceptional Digital Experiences</h3>
-
 # 💫 About Me:
-# 🌟 Muluken Jenber - Software Engineer | Web & Mobile Developer<br><br>💻 **Tech Stack:** ReactJS, React Native, Node.js, Django, MongoDB<br><br>Hi, I'm Muluken Jenber  a passionate Software Engineer with expertise in both web and mobile development. <br>I thrive on creating innovative and scalable digital solutions using modern technologies.<br> Whether I'm crafting interactive user interfaces or building robust back-end systems, <br>I am dedicated to delivering high-quality, user-centric applications. <br>Always eager to learn and collaborate, I'm excited to connect and work on projects that make a real impact!<br>
+
+<h1 align="center">Hi, I'm Muluken Jenber 👋</h1>
+<h3 align="center">Full Stack Developer | 🌟  Software Engineer | Web & Mobile Developer<br><br>💻 **Tech Stack:** ReactJS, React Native, Node.js, Django, MongoDB</h3>
+
+
 
 
 ## 🌐 Socials:
