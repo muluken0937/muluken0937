@@ -1,39 +1,65 @@
-# Hi 👋, I'm Muluken Jenber
-### A passionate Full Stack Developer
+# 👋 Hi, I'm [Your Name]
 
-<p align="center">
-  <!-- An animated GIF to grab attention -->
-  <img src="https://media.giphy.com/media/26FPq5WzbW1J8E4Ew/giphy.gif" alt="Coding Animation" width="300"/>
-</p>
+🚀 **Software Developer | AI Enthusiast | Open Source Contributor**
 
-### Connect with me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/muluken-jenber" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-</p>
+Welcome to my GitHub profile! I'm passionate about building innovative software solutions and exploring the latest technologies. Here's a little about me:
 
-### Languages and Tools:
-<!-- A marquee creates a subtle scrolling effect for your tech icons -->
-<marquee behavior="scroll" direction="left" scrollamount="5">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="Xamarin" width="40" height="40"/>
-</marquee>
+---
 
-<p align="center">
-  <i>I'm constantly learning and evolving as a developer. Let's build something amazing together!</i>
-</p>
+## 🔧 Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 1. [Project Name](https://github.com/yourusername/project-repo)
+📝 **Description**: A brief description of your project.  
+🛠️ **Tech Stack**: React, Node.js, MongoDB  
+⭐ **Stars**: [![GitHub Stars](https://img.shields.io/github/stars/yourusername/project-repo?style=social)](https://github.com/yourusername/project-repo)
+
+### 2. [Project Name](https://github.com/yourusername/project-repo)
+📝 **Description**: A brief description of your project.  
+🛠️ **Tech Stack**: Python, Flask, PostgreSQL  
+⭐ **Stars**: [![GitHub Stars](https://img.shields.io/github/stars/yourusername/project-repo?style=social)](https://github.com/yourusername/project-repo)
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=2&column=3)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
+---
+
+## 💡 Fun Fact
+
+When I'm not coding, I love [your hobby, e.g., hiking, playing guitar, or reading sci-fi novels]. 🎸📚
+
+---
+
+⭐️ From [Your Name](https://github.com/yourusername)
