@@ -10,7 +10,7 @@
     </td>
     <!-- Programmer cartoon image -->
     <td align="center">
-      <img src="https://t4.ftcdn.net/jpg/08/70/32/31/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" alt="Programmer Cartoon" width="200"/>
+      <img src="https://t4.ftcdn.net/jpg/08/70/32/31/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" alt="Programmer Cartoon" width="200" height="300px"/>
     </td>
   </tr>
 </table>
