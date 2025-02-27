@@ -1,7 +1,15 @@
 # 💫 About Me:
 
-<h1 align="center">Hi, I'm Muluken Jenber 👋</h1>
-<h3 align="center">Full Stack Developer | 🌟  Software Engineer | Web & Mobile Developer<br><br>💻 **Tech Stack:** ReactJS, React Native, Node.js, Django, MongoDB</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muluken+Jenber+👋;Full+Stack+Developer+💻;Software+Engineer+🌟;Web+%26+Mobile+Developer+📱" alt="Typing SVG" />
+  </a>
+</h1>
+
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" /> 
+  Passionate about building innovative solutions and solving real-world problems.
+</h3>
 
 
 
