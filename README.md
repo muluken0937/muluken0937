@@ -1,4 +1,50 @@
-# 💫 About Me:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            font-family: 'Fira Code', monospace;
+            background-color: #f0f0f0;
+        }
+        .icon {
+            display: inline-block;
+            animation: wave 1s infinite;
+            font-size: 1.5em;
+        }
+        .star {
+            display: inline-block;
+            animation: shine 1s infinite;
+            color: gold;
+        }
+        @keyframes wave {
+            0%, 100% {
+                transform: rotate(0deg);
+            }
+            50% {
+                transform: rotate(20deg);
+            }
+        }
+        @keyframes shine {
+            0% {
+                text-shadow: 0 0 5px #ffd700, 0 0 10px #ffd700, 0 0 15px #ffd700;
+            }
+            50% {
+                text-shadow: 0 0 10px #ffd700, 0 0 20px #ffd700, 0 0 30px #ffd700;
+            }
+            100% {
+                text-shadow: 0 0 5px #ffd700, 0 0 10px #ffd700, 0 0 15px #ffd700;
+            }
+        }
+    </style>
+</head>
+<body>
 
 <table align="center">
   <tr>
@@ -16,8 +62,8 @@
 </table>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" /> 
-  Passionate about building innovative solutions and solving real-world problems.
+  <span class="icon">Hi, I'm Muluken Jenber</span> <span class="icon">👋</span><br>
+  Passionate about building innovative solutions and solving real-world problems. <span class="star">🌟</span>
 </h3>
 
 ---
@@ -55,7 +101,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muluken0937&limit=5&theme=dark&combine_all_yearly_contributions=true)
