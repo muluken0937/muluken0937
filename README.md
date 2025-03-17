@@ -66,9 +66,7 @@
 ## 💰 You can help me by Donating:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://PayPal.Me/mulukenjenber)
 
-## 💰 Support My Work:
-If you find my projects helpful and want to support me, consider making a donation:  
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mulukenjenber)
+
 
 Your support helps me continue building and improving open-source projects. Thank you! 🚀
 
